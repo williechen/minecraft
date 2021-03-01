@@ -1467,7 +1467,9 @@
     "criteria": {
       "minecraft:cold_ocean": "2020-12-10 21:24:55 +0800",
       "minecraft:forest": "2020-12-04 20:03:28 +0800",
+      "minecraft:desert_hills": "2021-03-01 12:05:58 +0800",
       "minecraft:deep_cold_ocean": "2020-12-05 19:15:48 +0800",
+      "minecraft:desert": "2021-03-01 12:05:14 +0800",
       "minecraft:badlands": "2020-12-10 21:25:51 +0800",
       "minecraft:beach": "2020-12-04 20:28:22 +0800",
       "minecraft:river": "2020-12-10 21:26:11 +0800",
